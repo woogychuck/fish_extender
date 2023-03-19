@@ -1,0 +1,10 @@
+body {
+  background-color: #eee;
+  color:#444;
+}
+
+.app-container {
+  margin: 20px auto;
+  max-width: 1400px;
+  width: 90%;
+}
